@@ -1,0 +1,17 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+.alert_footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.invalid_link {
+  color: grey;
+}
+
+.mySlides {display:none}
